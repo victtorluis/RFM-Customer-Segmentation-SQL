@@ -18,6 +18,7 @@ A base foi processada através de 5 etapas principais:
 
 ## 📈 Resultados
 O output final é uma tabela **BI-ready**, pronta para ser consumida em ferramentas de visualização como **Power BI** ou **Tableau**, permitindo o monitoramento em tempo real do faturamento por segmento.
-![Segmentação RF] (Captura de tela 2026-04-21 000630.jpeg)
+<img width="1149" height="650" alt="Captura de tela 2026-04-21 000630" src="https://github.com/user-attachments/assets/9445511c-f6d5-4081-b761-fba214a82764" />
+
 ---
 *Projeto desenvolvido como parte do meu portfólio em Sistemas de Informação.*
